@@ -1,0 +1,165 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Using Footnotes</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Using Footnotes</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Using Footnotes" />
+<meta name="author" content="th" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This jekyll-theme supports MathJax to render footnotes in markdown." />
+<meta property="og:description" content="This jekyll-theme supports MathJax to render footnotes in markdown." />
+<link rel="canonical" href="http://localhost:4000/jekyll/2023/12/12/footnotes.md.bak" />
+<meta property="og:url" content="http://localhost:4000/jekyll/2023/12/12/footnotes.md.bak" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-12-12T00:00:00+01:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Using Footnotes" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"th"},"dateModified":"2023-12-12T00:00:00+01:00","datePublished":"2023-12-12T00:00:00+01:00","description":"This jekyll-theme supports MathJax to render footnotes in markdown.","headline":"Using Footnotes","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/jekyll/2023/12/12/footnotes.md.bak"},"url":"http://localhost:4000/jekyll/2023/12/12/footnotes.md.bak"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+    <nav>
+  
+    <a href="/">Home</a>
+  
+    <a href="/about.html">About</a>
+  
+    <a href="/blog.html">Blog</a>
+  
+    <a href="/staff.html">Staff</a>
+  
+</nav>
+    <h1>Using Footnotes</h1>
+
+<p>
+  12 Dec 2023
+  
+  
+</p>
+
+This jekyll-theme supports [MathJax](https://www.mathjax.org/) to render footnotes
+in markdown.
+
+e.g.,
+
+```markdown
+The well known Pythagorean theorem $x^2 + y^2 = z^2$ was
+proved to be invalid for other exponents[^1].
+Meaning the next equation has no integer solutions:
+
+$$ x^n + y^n = z^n $$
+```
+
+The well known Pythagorean theorem $x^2 + y^2 = z^2$ was
+proved to be invalid for other exponents[^1].
+Meaning the next equation has no integer solutions:
+
+$$ x^n + y^n = z^n $$
+
+Long contents
+-------------
+
+long contents .....
+
+1. a
+2. b
+3. c
+4. d
+
+### Sub title 1
+
+### Sub title 2
+
+### Sub title 3
+
+Long contents
+-------------
+
+long contents .....
+
+1. a
+2. b
+3. c
+4. d
+
+### Sub title 1
+
+### Sub title 2
+
+### Sub title 3
+
+Long contents
+-------------
+
+long contents .....
+
+1. a
+2. b
+3. c
+4. d
+
+### Sub title 1
+
+### Sub title 2
+
+### Sub title 3
+
+Long contents
+-------------
+
+long contents .....
+
+1. a
+2. b
+3. c
+4. d
+
+### Sub title 1
+
+### Sub title 2
+
+### Sub title 3
+
+Long contents
+-------------
+
+long contents .....
+
+1. a
+2. b
+3. c
+4. d
+
+### Sub title 1
+
+### Sub title 2
+
+### Sub title 3
+
+Long contents
+-------------
+
+long contents .....
+
+1. a
+2. b
+3. c
+4. d
+
+### Sub title 1
+
+### Sub title 2
+
+### Sub title 3
+
+[^1]: [https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem)
+
+  </body>
+</html>
